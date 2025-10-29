@@ -24,7 +24,7 @@ The calculators will then be available in your application menu.
 
 ### ✨ Application Preview
 
-The collection includes both a sleek graphical calculator and a fast terminal-based tool.
+The collection includes both a sleek graphical calculator tool.
 
 ![Calculator Screenshot](https://raw.githubusercontent.com/tiwut/Simple-Calculator/refs/heads/main/Simple-Calculator.png)
 *(Screenshot of the GUI Calculator)*
