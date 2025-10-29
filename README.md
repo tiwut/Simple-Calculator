@@ -3,7 +3,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![Availability](https://img.shields.io/badge/Available%20in-Tiwut%20Launcher-purple.svg)](https://github.com/tiwut/Tiwut-Launcher)
 
-A collection of two simple and elegant calculator applications built with Python. This project is officially available for one-click installation through the **Tiwut Launcher**.
+A simple and elegant calculator applications built with Python. This project is officially available for one-click installation through the **Tiwut Launcher**.
 
 ---
 
@@ -15,7 +15,7 @@ For the best experience, we strongly recommend installing this application suite
 
 #### Installation Steps:
 1.  Open the **Tiwut Launcher** on your system.
-2.  Search for `Simple Calculator Collection`.
+2.  Search for `Simple Calculator`.
 3.  Click the **Install** button.
 
 The calculators will then be available in your application menu.
