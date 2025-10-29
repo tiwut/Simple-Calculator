@@ -26,7 +26,7 @@ The calculators will then be available in your application menu.
 
 The collection includes both a sleek graphical calculator and a fast terminal-based tool.
 
-![Calculator Screenshot](img width="360" height="495" alt="image" src="https://github.com/user-attachments/assets/e7040b67-cafe-4010-ab7e-9b575407c045")
+![Calculator Screenshot](https://raw.githubusercontent.com/tiwut/Simple-Calculator/refs/heads/main/Simple-Calculator.png)
 *(Screenshot of the GUI Calculator)*
 
 ### Features
