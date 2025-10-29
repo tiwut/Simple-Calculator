@@ -1,4 +1,4 @@
-# 🐍 Simple Calculator Collection
+# 🖩 Simple Calculator 
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![Availability](https://img.shields.io/badge/Available%20in-Tiwut%20Launcher-purple.svg)](https://github.com/tiwut/Tiwut-Launcher)
