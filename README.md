@@ -31,9 +31,7 @@ The collection includes both a sleek graphical calculator tool.
 
 ### Features
 
--   **Two-in-One:** Get both a terminal and a graphical calculator in one package.
 -   **User-Friendly GUI:** The graphical interface (`calculator.py`) is intuitive and easy to use.
--   **Lightweight & Fast:** The terminal version (`rechner.py`) is perfect for quick calculations.
 -   **Core Arithmetic:** Supports Addition, Subtraction, Multiplication, and Division.
 -   **Error Handling:** Manages invalid inputs and division-by-zero errors.
 
@@ -57,12 +55,7 @@ If you prefer to run the application from the source code or wish to contribute,
     cd Simple-Calculator
     ```
 
-2.  **Run the application of your choice:**
-
-    *To run the Terminal version:*
-    ```bash
-    python3 rechner.py
-    ```
+2.  **Run the application:**
 
     *To run the GUI version:*
     ```bash
