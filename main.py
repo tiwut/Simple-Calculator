@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import tkinter as tk
 
 # Function to add text to the display
