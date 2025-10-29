@@ -11,7 +11,7 @@ A simple and elegant calculator applications built with Python. This project is 
 
 For the best experience, we strongly recommend installing this application suite through the **Tiwut Launcher**. It handles all dependencies and setup for you, providing a seamless one-click installation.
 
-**[➡️ Get "Simple Calculator" on the Tiwut Launcher](https://github.com/tiwut/Tiwut-Launcher)**
+**[➡️ Get "Simple Calculator" on the Tiwut Launcher](https://launcher.tiwut.de/)**
 
 #### Installation Steps:
 1.  Open the **Tiwut Launcher** on your system.
